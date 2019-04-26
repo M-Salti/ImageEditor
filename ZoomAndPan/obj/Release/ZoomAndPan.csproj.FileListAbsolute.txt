@@ -1,0 +1,31 @@
+C:\Users\Salti\source\repos\ZoomAndPan\bin\Release\ZoomAndPan.dll
+C:\Users\Salti\source\repos\ZoomAndPan\bin\Release\ZoomAndPan.pdb
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Release\ZoomAndPan_MarkupCompile.cache
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Release\ZoomAndPan_MarkupCompile.lref
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Release\Themes\Generic.baml
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Release\ZoomAndPan.g.resources
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Release\ZoomAndPan.csproj.CoreCompileInputs.cache
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Release\ZoomAndPan.dll
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Release\ZoomAndPan.pdb
+E:\New folder\ZoomAndPan\bin\Release\ZoomAndPan.dll
+E:\New folder\ZoomAndPan\bin\Release\ZoomAndPan.pdb
+E:\New folder\ZoomAndPan\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\New folder\ZoomAndPan\obj\Release\ZoomAndPan_MarkupCompile.cache
+E:\New folder\ZoomAndPan\obj\Release\ZoomAndPan_MarkupCompile.lref
+E:\New folder\ZoomAndPan\obj\Release\Themes\Generic.baml
+E:\New folder\ZoomAndPan\obj\Release\ZoomAndPan.g.resources
+E:\New folder\ZoomAndPan\obj\Release\ZoomAndPan.csproj.CoreCompileInputs.cache
+E:\New folder\ZoomAndPan\obj\Release\ZoomAndPan.dll
+E:\New folder\ZoomAndPan\obj\Release\ZoomAndPan.pdb
+F:\مشروع 1\ZoomAndPan\bin\Release\ZoomAndPan.dll
+F:\مشروع 1\ZoomAndPan\bin\Release\ZoomAndPan.pdb
+F:\مشروع 1\ZoomAndPan\obj\Release\ZoomAndPan.csprojAssemblyReference.cache
+F:\مشروع 1\ZoomAndPan\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\مشروع 1\ZoomAndPan\obj\Release\ZoomAndPan_MarkupCompile.cache
+F:\مشروع 1\ZoomAndPan\obj\Release\ZoomAndPan_MarkupCompile.lref
+F:\مشروع 1\ZoomAndPan\obj\Release\Themes\Generic.baml
+F:\مشروع 1\ZoomAndPan\obj\Release\ZoomAndPan.g.resources
+F:\مشروع 1\ZoomAndPan\obj\Release\ZoomAndPan.csproj.CoreCompileInputs.cache
+F:\مشروع 1\ZoomAndPan\obj\Release\ZoomAndPan.dll
+F:\مشروع 1\ZoomAndPan\obj\Release\ZoomAndPan.pdb

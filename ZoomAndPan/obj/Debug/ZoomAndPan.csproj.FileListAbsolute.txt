@@ -1,0 +1,21 @@
+C:\Users\Salti\source\repos\ZoomAndPan\bin\Debug\ZoomAndPan.dll
+C:\Users\Salti\source\repos\ZoomAndPan\bin\Debug\ZoomAndPan.pdb
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Debug\ZoomAndPan_MarkupCompile.cache
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Debug\ZoomAndPan_MarkupCompile.lref
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Debug\Themes\Generic.baml
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Debug\ZoomAndPan.g.resources
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Debug\ZoomAndPan.csproj.CoreCompileInputs.cache
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Debug\ZoomAndPan.dll
+C:\Users\Salti\source\repos\ZoomAndPan\obj\Debug\ZoomAndPan.pdb
+F:\مشروع 1\New folder\ZoomAndPan\bin\Debug\ZoomAndPan.dll
+F:\مشروع 1\New folder\ZoomAndPan\bin\Debug\ZoomAndPan.pdb
+F:\مشروع 1\New folder\ZoomAndPan\obj\Debug\ZoomAndPan.csprojAssemblyReference.cache
+F:\مشروع 1\New folder\ZoomAndPan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\مشروع 1\New folder\ZoomAndPan\obj\Debug\ZoomAndPan_MarkupCompile.cache
+F:\مشروع 1\New folder\ZoomAndPan\obj\Debug\ZoomAndPan_MarkupCompile.lref
+F:\مشروع 1\New folder\ZoomAndPan\obj\Debug\Themes\Generic.baml
+F:\مشروع 1\New folder\ZoomAndPan\obj\Debug\ZoomAndPan.g.resources
+F:\مشروع 1\New folder\ZoomAndPan\obj\Debug\ZoomAndPan.csproj.CoreCompileInputs.cache
+F:\مشروع 1\New folder\ZoomAndPan\obj\Debug\ZoomAndPan.dll
+F:\مشروع 1\New folder\ZoomAndPan\obj\Debug\ZoomAndPan.pdb
